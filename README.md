@@ -7,3 +7,5 @@
 my portfolio showcases my projects, my contact, and at little about me and my journey so far in coding.
 
 I don't have a lot of project work under my belt yet.
+
+so I've added some filler photos in place. And some jokes.
