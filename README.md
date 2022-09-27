@@ -11,3 +11,5 @@ I don't have a lot of project work under my belt yet.
 so I've added some filler photos in place. And some jokes.
 
 My work section features my first project(larger than all of the others).
+
+Each button at the top of page directs you to the linked section of the page.
