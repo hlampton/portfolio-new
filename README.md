@@ -9,3 +9,5 @@ my portfolio showcases my projects, my contact, and at little about me and my jo
 I don't have a lot of project work under my belt yet.
 
 so I've added some filler photos in place. And some jokes.
+
+My work section features my first project(larger than all of the others).
